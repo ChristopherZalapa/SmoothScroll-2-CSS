@@ -66,4 +66,20 @@ section h1 {
 section p {
   font-size: 1.5rem;
 }
+
+section#home {
+  background: url("https://source.unsplash.com/bZZp1PmHI0E/1600x900") no-repeat center center/cover;
+}
+
+section#projects {
+  background: url("https://source.unsplash.com/bZZp1PmHI0E/1600x900") no-repeat center center/cover;
+}
+
+section#about {
+  background: url("https://source.unsplash.com/bZZp1PmHI0E/1600x900") no-repeat center center/cover;
+}
+
+section#contact {
+  background: url("https://source.unsplash.com/bZZp1PmHI0E/1600x900") no-repeat center center/cover;
+}
 /*# sourceMappingURL=style.css.map */
